@@ -43,10 +43,24 @@ Currently learning **React** to build dynamic web applications, and always looki
     />
     <img
       src="https://github-readme-stats.vercel.app/api?username=Yash08238&show_icons=true&theme=default&hide_border=true&bg_color=F6F8FA"
-      height="190"
+      height="180"
       alt="GitHub Stats"
     />
   </picture>
+
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Yash08238&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yash08238&layout=compact&theme=default&hide_border=true&bg_color=F6F8FA"
+      height="180"
+      alt="Top Languages"
+    />
+  </picture>
+
+  <br/>
 
   <picture>
     <source
@@ -55,7 +69,7 @@ Currently learning **React** to build dynamic web applications, and always looki
     />
     <img
       src="https://github-readme-streak-stats.herokuapp.com?user=Yash08238&theme=default&hide_border=true&background=F6F8FA"
-      height="190"
+      height="180"
       alt="GitHub Streak"
     />
   </picture>
@@ -69,5 +83,19 @@ Currently learning **React** to build dynamic web applications, and always looki
 - Building **real-world front-end projects**
 
 ---
+
+🚀 **Featured Projects**
+
+> **[StockFlow-ERP-Project](https://github.com/Yash08238/StockFlow-ERP-Project)**  
+> A comprehensive ERP system built with the MERN stack, featuring Google OAuth and Cloudinary integration.
+
+> **[Portfolio Website](https://github.com/Yash08238/portfolio)**  
+> My personal portfolio showcasing my skills and projects, built with responsive design in mind.
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Yash08238&style=flat-square&color=blueviolet" alt="Visitor Count" />
+</div>
 
 ⭐ *Feel free to check out my repositories and connect with me!*

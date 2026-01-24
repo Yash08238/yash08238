@@ -50,20 +50,6 @@ Currently learning **React** to build dynamic web applications, and always looki
 
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Yash08238&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"
-      media="(prefers-color-scheme: dark)"
-    />
-    <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yash08238&layout=compact&theme=default&hide_border=true&bg_color=F6F8FA"
-      height="180"
-      alt="Top Languages"
-    />
-  </picture>
-
-  <br/>
-
-  <picture>
-    <source
       srcset="https://github-readme-streak-stats.herokuapp.com?user=Yash08238&theme=react&hide_border=true&background=1F222E&ring=F85D7F&fire=F8D866&currStreakLabel=F85D7F"
       media="(prefers-color-scheme: dark)"
     />

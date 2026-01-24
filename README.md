@@ -50,11 +50,11 @@ Currently learning **React** to build dynamic web applications, and always looki
 
   <picture>
     <source
-      srcset="https://github-readme-streak-stats.herokuapp.com?user=Yash08238&theme=react&hide_border=true&background=1F222E&ring=F85D7F&fire=F8D866&currStreakLabel=F85D7F"
+      srcset="https://streak-stats.demolab.com?user=Yash08238&theme=react&hide_border=true&background=1F222E&ring=F85D7F&fire=F8D866&currStreakLabel=F85D7F"
       media="(prefers-color-scheme: dark)"
     />
     <img
-      src="https://github-readme-streak-stats.herokuapp.com?user=Yash08238&theme=default&hide_border=true&background=F6F8FA"
+      src="https://streak-stats.demolab.com?user=Yash08238&theme=default&hide_border=true&background=F6F8FA"
       height="180"
       alt="GitHub Streak"
     />

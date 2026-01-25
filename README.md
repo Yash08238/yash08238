@@ -1,6 +1,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
+<img height="auto" src="https://komarev.com/ghpvc/?username=Yash08238&label=Profile%20views&color=0e75b6&style=flat" alt="profile-radme-generator" />
 
 
 
@@ -32,6 +33,6 @@
 <a href=https://aws.amazon.com target="_blank" rel="noreferrer"> <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg alt="aws" width="40" height="40"/> </a> 
 </p>
 
-<img align="left" height="auto" width={300} src="https://github-readme-stats.vercel.app/api?username=Yash08238&show_icons=true&theme=dark&locale=en&hide_border=false" alt="profile-radme-generator" />
+<img align="left" height="auto" width={300} src="https://github-readme-stats.vercel.app/api?username=Yash08238&show_icons=true&theme=merko&locale=en&hide_border=false" alt="profile-radme-generator" />
 
-<img align="left" height="auto" width={300} src="https://streak-stats.demolab.com/?user=Yash08238&theme=dark&mode=weekly&hide_border=false&locale=en" alt="profile-radme-generator" />
+<img align="left" height="auto" width={300} src="https://streak-stats.demolab.com/?user=Yash08238&theme=merko&mode=weekly&hide_border=false&locale=en" alt="profile-radme-generator" />

@@ -4,7 +4,6 @@
 <img height="auto" src="https://komarev.com/ghpvc/?username=Yash08238&label=Profile%20views&color=0e75b6&style=flat" alt="profile-radme-generator" />
 
 
-<p align="left"> <img height="auto" src="https://github-profile-trophy.vercel.app/?username=Yash08238&theme=matrix&column=6&no-frame=false&no-bg=false&margin-w=19&margin-h=19" alt="image" /> </p>
 
 - 🔭 I’m currently working on **[StockFlow-ERP-Project](https://github.com/Yash08238/StockFlow-ERP-Project)**
 
@@ -19,7 +18,7 @@
 <h3 align="left">Connect with me:</h3> <p align="left"> 
 <a href="https://github.com/Yash08238" target="blank"><img align="center" src=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg alt="profile-radme-generator" height="30" width="40" /></a> 
 <a href="https://linkedin.com/in/yash-chauhan0710" target="blank"><img align="center" src=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg alt="profile-radme-generator" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/yashchauhan00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leetcode.svg" alt="leetcode" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/yashchauhan00" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/leetcode.svg" alt="leetcode" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/yashc1024" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="codeforces" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/yashc1024" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="codechef" height="30" width="40" /></a>
 </p>

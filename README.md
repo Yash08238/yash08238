@@ -35,4 +35,4 @@
 
 <img align="left" height="auto" width={300} src="https://github-readme-stats.vercel.app/api?username=Yash08238&show_icons=true&theme=merko&locale=en&hide_border=false" alt="profile-radme-generator" />
 
-<img align="left" height="auto" width={300} src="https://github-readme-streak-stats.herokuapp.com/?user=Yash08238&theme=merko&mode=weekly&hide_border=false&locale=en" alt="profile-radme-generator" />
+<img align="left" height="auto" width={300} src="https://streak-stats.demolab.com/?user=Yash08238&theme=merko&mode=weekly&hide_border=false&locale=en" alt="profile-radme-generator" />

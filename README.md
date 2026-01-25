@@ -1,5 +1,5 @@
 
-![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=Yash%20Chauhan&text2=Front-End%20Web%20Developer&width=900&height=400)
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 <img height="auto" src="https://komarev.com/ghpvc/?username=Yash08238&label=Profile%20views&color=0e75b6&style=flat" alt="profile-radme-generator" />
 
@@ -37,5 +37,3 @@
 <img align="left" height="auto" width={300} src="https://github-readme-stats.vercel.app/api?username=Yash08238&show_icons=true&theme=merko&locale=en&hide_border=false" alt="profile-radme-generator" />
 
 <img align="left" height="auto" width={300} src="https://github-readme-streak-stats.herokuapp.com/?user=Yash08238&theme=merko&mode=weekly&hide_border=false&locale=en" alt="profile-radme-generator" />
-
-<img align="left" height="auto" width={300} src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yash08238&theme=merko&hide_border=false" alt="profile-radme-generator" />

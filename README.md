@@ -1,87 +1,42 @@
-# 👋 Hi, I'm Yash Chauhan
 
-## 💫 About Me
+![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=Yash%20Chauhan&text2=Front-End%20Web%20Developer&width=900&height=400)
 
-I'm a 3rd-year **B.Tech student** and an aspiring **Front-End Web Developer**.  
-I enjoy creating clean, responsive, and interactive user interfaces using **HTML, CSS, and JavaScript**.
+<img height="auto" src="https://komarev.com/ghpvc/?username=Yash08238&label=Profile%20views&color=0e75b6&style=flat" alt="profile-radme-generator" />
 
-Currently learning **React** to build dynamic web applications, and always looking to grow by building real-world projects.
+<p align="left"> <img width="900" height="110" src="https://readme-jokes.vercel.app/api" alt ="tr"/> </p>
 
----
+<p align="left"> <img height="auto" src="https://github-profile-trophy.vercel.app/?username=Yash08238&theme=matrix&column=6&no-frame=false&no-bg=false&margin-w=19&margin-h=19" alt="image" /> </p>
 
-## 🌐 Socials & Coding Profiles
+- 🔭 I’m currently working on **[StockFlow-ERP-Project](https://github.com/Yash08238/StockFlow-ERP-Project)**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/yash-chauhan0710)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black)](https://www.leetcode.com/yashchauhan00)
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?logo=codeforces&logoColor=white)](https://codeforces.com/profile/yashc1024)
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?logo=codechef&logoColor=white)](https://www.codechef.com/users/yashc1024)
+- 🌱 I’m currently learning **React & React Native**
 
----
+- 💬 Ask me about **Front-End Web Development**
 
-## 💻 Languages & Tools
+- ⚡ Fun Fact **I enjoy creating clean, responsive, and interactive user interfaces.**
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+- 📫 How to reach me **[LinkedIn](https://linkedin.com/in/yash-chauhan0710)**
 
----
+<h3 align="left">Connect with me:</h3> <p align="left"> 
+<a href="https://github.com/Yash08238" target="blank"><img align="center" src=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg alt="profile-radme-generator" height="30" width="40" /></a> 
+<a href="https://linkedin.com/in/yash-chauhan0710" target="blank"><img align="center" src=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg alt="profile-radme-generator" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/yashchauhan00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leetcode.svg" alt="leetcode" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/yashc1024" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="codeforces" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/yashc1024" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="codechef" height="30" width="40" /></a>
+</p>
 
-## 📊 GitHub Stats
+<h3 align="left">Languages and Tools:</h3> <p align="left"> 
+<a href=https://www.w3.org/html/ target="_blank" rel="noreferrer"> <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg alt="html5" width="40" height="40"/> </a> 
+<a href=https://www.w3schools.com/css/ target="_blank" rel="noreferrer"> <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg alt="css3" width="40" height="40"/> </a> 
+<a href=https://developer.mozilla.org/en-US/docs/Web/JavaScript target="_blank" rel="noreferrer"> <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg alt="javascript" width="40" height="40"/> </a> 
+<a href=https://reactjs.org/ target="_blank" rel="noreferrer"> <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg alt="react" width="40" height="40"/> </a> 
+<a href=https://www.python.org target="_blank" rel="noreferrer"> <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg alt="python" width="40" height="40"/> </a> 
+<a href=https://www.java.com target="_blank" rel="noreferrer"> <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg alt="java" width="40" height="40"/> </a> 
+<a href=https://aws.amazon.com target="_blank" rel="noreferrer"> <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg alt="aws" width="40" height="40"/> </a> 
+</p>
 
-<div align="center">
-  <br/>
+<img align="left" height="auto" width={300} src="https://github-readme-stats.vercel.app/api?username=Yash08238&show_icons=true&theme=merko&locale=en&hide_border=false" alt="profile-radme-generator" />
 
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=Yash08238&show_icons=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"
-      media="(prefers-color-scheme: dark)"
-    />
-    <img
-      src="https://github-readme-stats.vercel.app/api?username=Yash08238&show_icons=true&theme=default&hide_border=true&bg_color=F6F8FA"
-      height="180"
-      alt="GitHub Stats"
-    />
-  </picture>
+<img align="left" height="auto" width={300} src="https://github-readme-streak-stats.herokuapp.com/?user=Yash08238&theme=merko&mode=weekly&hide_border=false&locale=en" alt="profile-radme-generator" />
 
-  <picture>
-    <source
-      srcset="https://streak-stats.demolab.com?user=Yash08238&theme=react&hide_border=true&background=1F222E&ring=F85D7F&fire=F8D866&currStreakLabel=F85D7F"
-      media="(prefers-color-scheme: dark)"
-    />
-    <img
-      src="https://streak-stats.demolab.com?user=Yash08238&theme=default&hide_border=true&background=F6F8FA"
-      height="180"
-      alt="GitHub Streak"
-    />
-  </picture>
-</div>
-
----
-
-## 🚀 What I'm Currently Doing
-- Learning **React & React Native**
-- Improving **DSA & Competitive Programming**
-- Building **real-world front-end projects**
-
----
-
-🚀 **Featured Projects**
-
-> **[StockFlow-ERP-Project](https://github.com/Yash08238/StockFlow-ERP-Project)**  
-> A comprehensive ERP system built with the MERN stack, featuring Google OAuth and Cloudinary integration.
-
-> **[Portfolio Website](https://github.com/Yash08238/portfolio)**  
-> My personal portfolio showcasing my skills and projects, built with responsive design in mind.
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Yash08238&style=flat-square&color=blueviolet" alt="Visitor Count" />
-</div>
-
-⭐ *Feel free to check out my repositories and connect with me!*
+<img align="left" height="auto" width={300} src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yash08238&theme=merko&hide_border=false" alt="profile-radme-generator" />

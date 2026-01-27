@@ -37,6 +37,6 @@
 </p>
 
 <div align="left">
-  <img  height="180" width="48%" src="https://github-readme-stats.vercel.app/api?username=Yash08238&show_icons=true&theme=merko&locale=en&hide_border=false" />
-  <img  height="180" width="48%" src="https://streak-stats.demolab.com/?user=Yash08238&theme=merko&mode=weekly&hide_border=false&locale=en" />
+  <img  height="180" width="400" src="https://github-readme-stats.vercel.app/api?username=Yash08238&show_icons=true&theme=merko&locale=en&hide_border=false" />
+  <img  height="180" width="400" src="https://streak-stats.demolab.com/?user=Yash08238&theme=merko&mode=weekly&hide_border=false&locale=en" />
 </div>
